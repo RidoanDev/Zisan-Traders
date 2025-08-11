@@ -706,7 +706,7 @@ export const products: Product[] = [
     category: 'তার',
     oldPrice: 350,
     price: 320,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://source.unsplash.com/600x600/?electrical,wire',
     stock: 200,
     description: 'কপার ইলেকট্রিক ওয়্যার। ১০০ মিটার।'
   },
@@ -716,7 +716,7 @@ export const products: Product[] = [
     category: 'তার',
     oldPrice: 280,
     price: 250,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://source.unsplash.com/600x600/?coaxial,cable',
     stock: 150,
     description: 'টিভি এবং ইন্টারনেটের জন্য।'
   },
@@ -726,7 +726,7 @@ export const products: Product[] = [
     category: 'তার',
     oldPrice: 180,
     price: 160,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://source.unsplash.com/600x600/?usb-c,cable',
     stock: 120,
     description: 'ফাস্ট চার্জিং ইউএসবি কেবল।'
   },
@@ -736,7 +736,7 @@ export const products: Product[] = [
     category: 'তার',
     oldPrice: 450,
     price: 420,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://source.unsplash.com/600x600/?power,cable,3-core',
     stock: 80,
     description: 'ভারী যন্ত্রের জন্য পাওয়ার কেবল।'
   },
@@ -746,7 +746,7 @@ export const products: Product[] = [
     category: 'তার',
     oldPrice: 320,
     price: 290,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://source.unsplash.com/600x600/?cat6,cable',
     stock: 100,
     description: 'হাই স্পিড ইন্টারনেটের জন্য।'
   },
@@ -758,7 +758,7 @@ export const products: Product[] = [
     category: 'আরও অন্যান্য',
     oldPrice: 350,
     price: 320,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://source.unsplash.com/600x600/?hammer,tool',
     stock: 40,
     description: 'নির্মাণ কাজের জন্য হাতুড়ি।'
   },
@@ -768,7 +768,7 @@ export const products: Product[] = [
     category: 'আরও অন্যান্য',
     oldPrice: 280,
     price: 250,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://source.unsplash.com/600x600/?screwdriver,set,tools',
     stock: 60,
     description: 'বিভিন্ন সাইজের স্ক্রু ড্রাইভার।'
   },
@@ -778,7 +778,7 @@ export const products: Product[] = [
     category: 'আরও অন্যান্য',
     oldPrice: 180,
     price: 160,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://source.unsplash.com/600x600/?measuring,tape,tool',
     stock: 80,
     description: 'স্টিল মেজারিং টেপ।'
   },
@@ -788,7 +788,7 @@ export const products: Product[] = [
     category: 'আরও অন্যান্য',
     oldPrice: 450,
     price: 420,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://source.unsplash.com/600x600/?spirit,level,tool',
     stock: 35,
     description: 'নির্মাণ কাজের জন্য স্পিরিট লেভেল।'
   },
@@ -798,7 +798,7 @@ export const products: Product[] = [
     category: 'আরও অন্যান্য',
     oldPrice: 120,
     price: 100,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://source.unsplash.com/600x600/?work,gloves,tool',
     stock: 100,
     description: 'কাজের জন্য সুরক্ষা গ্লোভস।'
   }
