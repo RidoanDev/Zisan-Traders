@@ -1,6 +1,6 @@
 {
   "name": "জিসান ট্রেডার্স",
-  "short_name": "জিসান",
+  "short_name": "জিসান ট্রেডার্স",
   "description": "বগুড়ার বিশ্বহরিগাছা বাজারে অবস্থিত জিসান ট্রেডার্স। নির্মাণ সামগ্রী ও দৈনন্দিন প্রয়োজনীয় পণ্য।",
   "start_url": "/",
   "display": "standalone",
@@ -10,13 +10,13 @@
   "scope": "/",
   "icons": [
     {
-      "src": "/icon-192x192.png",
+      "src": "https://i.postimg.cc/sgQNPDQT/App-logo.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "/icon-512x512.png",
+      "src": "https://i.postimg.cc/sgQNPDQT/App-logo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
