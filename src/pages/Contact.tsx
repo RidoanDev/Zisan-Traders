@@ -82,7 +82,7 @@ const Contact = () => {
           <h3 className="font-semibold mb-3">আমাদের অবস্থান</h3>
           <div className="aspect-video rounded-lg overflow-hidden">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.5445454646!2d89.4358!3d24.9136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjTCsDU0JzQ5LjAiTiA4OcKwMjYnMDkuMCJF!5e0!3m2!1sen!2sbd!4v1635780000000!5m2!1sen!2sbd"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3626.885829534771!2d89.5302832!3d24.6276196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fdb198b5cd1df9%3A0x94b9f448dbe57bca!2sZisan%20Telecom!5e0!3m2!1sen!2sbd!4v1754897477199!5m2!1sen!2sbd"
               width="100%"
               height="100%"
               style={{ border: 0 }}
