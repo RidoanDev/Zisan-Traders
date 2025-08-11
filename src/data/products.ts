@@ -35,7 +35,7 @@ export const products: Product[] = [
     category: 'গ্যাস সিলিন্ডার',
     oldPrice: 3200,
     price: 2850,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/lpg-gas-cylinder-500x500.jpg',
     stock: 25,
     description: 'উচ্চ মানের গ্যাস সিলিন্ডার। নিরাপদ এবং দীর্ঘস্থায়ী ব্যবহারের জন্য উপযুক্ত।'
   },
@@ -45,7 +45,7 @@ export const products: Product[] = [
     category: 'গ্যাস সিলিন্ডার',
     oldPrice: 1800,
     price: 1650,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://m.media-amazon.com/images/I/61iSqbUy8VL._AC_UF1000,1000_QL80_.jpg',
     stock: 35,
     description: 'ছোট পরিবারের জন্য উপযুক্ত ৫ কেজি গ্যাস সিলিন্ডার।'
   },
@@ -55,7 +55,7 @@ export const products: Product[] = [
     category: 'গ্যাস সিলিন্ডার',
     oldPrice: 4500,
     price: 4200,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://sc04.alicdn.com/kf/H1a2f1a1d8c7a4c9e9e8d0f3b3a3a3a3a.jpg',
     stock: 15,
     description: 'বড় পরিবার এবং রেস্তোরাঁর জন্য ২০ কেজি গ্যাস সিলিন্ডার।'
   },
@@ -65,7 +65,7 @@ export const products: Product[] = [
     category: 'গ্যাস সিলিন্ডার',
     oldPrice: 450,
     price: 380,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/lpg-gas-regulator-500x500.jpg',
     stock: 50,
     description: 'উন্নত মানের গ্যাস রেগুলেটর। নিরাপদ গ্যাস সরবরাহের জন্য।'
   },
@@ -74,7 +74,7 @@ export const products: Product[] = [
     name: 'গ্যাস পাইপ ১ মিটার',
     category: 'গ্যাস সিলিন্ডার',
     price: 150,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/lpg-gas-hose-pipe-500x500.jpg',
     stock: 100,
     description: 'মানসম্পন্ন গ্যাস পাইপ। দীর্ঘস্থায়ী এবং নিরাপদ।'
   },
@@ -86,7 +86,7 @@ export const products: Product[] = [
     category: 'সেভেন রিংস সিমেন্ট',
     oldPrice: 650,
     price: 620,
-    imageUrl: 'https://i.postimg.cc/htt7Nfb0/0000-image001.jpg',
+    imageUrl: 'https://www.sevenringcement.com/wp-content/uploads/2021/01/Seven-Ring-Cement-50kg.jpg',
     stock: 150,
     description: 'প্রিমিয়াম মানের সিমেন্ট। নির্মাণ কাজের জন্য সর্বোত্তম গুণমান।'
   },
@@ -96,7 +96,7 @@ export const products: Product[] = [
     category: 'সেভেন রিংস সিমেন্ট',
     oldPrice: 350,
     price: 330,
-    imageUrl: 'https://i.postimg.cc/htt7Nfb0/0000-image001.jpg',
+    imageUrl: 'https://www.sevenringcement.com/wp-content/uploads/2021/01/Seven-Ring-Cement-25kg.jpg',
     stock: 200,
     description: 'ছোট নির্মাণ কাজের জন্য ২৫ কেজি সিমেন্ট।'
   },
@@ -106,7 +106,7 @@ export const products: Product[] = [
     category: 'সেভেন রিংস সিমেন্ট',
     oldPrice: 750,
     price: 720,
-    imageUrl: 'https://i.postimg.cc/htt7Nfb0/0000-image001.jpg',
+    imageUrl: 'https://www.sevenringcement.com/wp-content/uploads/2021/01/Seven-Ring-White-Cement.jpg',
     stock: 80,
     description: 'সাদা সিমেন্ট। ফিনিশিং এবং সৌন্দর্য বৃদ্ধির জন্য।'
   },
@@ -116,7 +116,7 @@ export const products: Product[] = [
     category: 'সেভেন রিংস সিমেন্ট',
     oldPrice: 700,
     price: 680,
-    imageUrl: 'https://i.postimg.cc/htt7Nfb0/0000-image001.jpg',
+    imageUrl: 'https://www.sevenringcement.com/wp-content/uploads/2021/01/Seven-Ring-Rapid-Set-Cement.jpg',
     stock: 120,
     description: 'দ্রুত শুকানোর সিমেন্ট। জরুরি মেরামতের জন্য আদর্শ।'
   },
@@ -126,7 +126,7 @@ export const products: Product[] = [
     category: 'সেভেন রিংস সিমেন্ট',
     oldPrice: 800,
     price: 750,
-    imageUrl: 'https://i.postimg.cc/htt7Nfb0/0000-image001.jpg',
+    imageUrl: 'https://www.sevenringcement.com/wp-content/uploads/2021/01/Seven-Ring-Waterproof-Cement.jpg',
     stock: 60,
     description: 'জলরোধী সিমেন্ট। বেসমেন্ট এবং বাথরুমের জন্য।'
   },
@@ -138,7 +138,7 @@ export const products: Product[] = [
     category: 'মোবাইল',
     oldPrice: 42000,
     price: 38500,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://images.samsung.com/is/image/samsung/p6pim/bd/2302/gallery/bd-galaxy-a54-5g-sm-a546elbgins-thumb-534866541?$216_216_PNG$',
     stock: 8,
     description: 'সর্বশেষ স্যামসাং গ্যালাক্সি মোবাইল ফোন। দারুণ ক্যামেরা এবং পারফরম্যান্স।'
   },
@@ -148,7 +148,7 @@ export const products: Product[] = [
     category: 'মোবাইল',
     oldPrice: 85000,
     price: 78000,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-model-unselect-gallery-1-202209?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660753619946',
     stock: 5,
     description: 'অ্যাপলের সর্বশেষ আইফোন। প্রিমিয়াম বিল্ড কোয়ালিটি।'
   },
@@ -158,7 +158,7 @@ export const products: Product[] = [
     category: 'মোবাইল',
     oldPrice: 18000,
     price: 16500,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://image01.realme.net/general/20230320/1679309530182.png',
     stock: 12,
     description: 'বাজেট ফ্রেন্ডলি মোবাইল। ভাল ব্যাটারি ব্যাকআপ।'
   },
@@ -168,7 +168,7 @@ export const products: Product[] = [
     category: 'মোবাইল',
     oldPrice: 35000,
     price: 32000,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://image01.oneplus.net/shop/2023/04/04/0b3a8b1a-3e1e-4f5e-9e3f-5e5e5e5e5e5e.png',
     stock: 7,
     description: 'দ্রুত চার্জিং এবং স্মুথ পারফরম্যান্স।'
   },
@@ -178,7 +178,7 @@ export const products: Product[] = [
     category: 'মোবাইল',
     oldPrice: 25000,
     price: 22500,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-12/specs-header.png',
     stock: 15,
     description: 'শাওমির জনপ্রিয় রেডমি সিরিজ। দুর্দান্ত ক্যামেরা।'
   },
@@ -190,7 +190,7 @@ export const products: Product[] = [
     category: 'ইলেকট্রনিক্স',
     oldPrice: 65000,
     price: 58000,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://www.lg.com/in/images/air-conditioners/md07527416/gallery/AC-1.5-Ton-3-Star-Dual-Inverter-Split-Air-Conditioner-F-Q12JWZA-D-01.jpg',
     stock: 3,
     description: 'শক্তি সাশ্রয়ী এয়ার কন্ডিশনার। দ্রুত শীতলতা এবং কম বিদ্যুৎ খরচ।'
   },
@@ -200,7 +200,7 @@ export const products: Product[] = [
     category: 'ইলেকট্রনিক্স',
     oldPrice: 55000,
     price: 48000,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://images.samsung.com/is/image/samsung/p6pim/bd/rt25harbbsl/gallery/bd-top-mount-250l-rt25harbbsl-532808228?$650_519_PNG$',
     stock: 6,
     description: 'শক্তি সাশ্রয়ী রেফ্রিজারেটর। নো ফ্রস্ট টেকনোলজি।'
   },
@@ -210,7 +210,7 @@ export const products: Product[] = [
     category: 'ইলেকট্রনিক্স',
     oldPrice: 35000,
     price: 32000,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://www.waltonbd.com/image/catalog/washing-machine/front-loading/WM-F70MGP/WM-F70MGP.png',
     stock: 4,
     description: '৭ কেজি ক্যাপাসিটি। অটোমেটিক ওয়াশিং।'
   },
@@ -220,7 +220,7 @@ export const products: Product[] = [
     category: 'ইলেকট্রনিক্স',
     oldPrice: 45000,
     price: 42000,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://www.lg.com/in/images/tvs/md07527468/gallery/43UQ7500PSF-D-01.jpg',
     stock: 8,
     description: 'স্মার্ট এলইডি টিভি। ৪কে রেজোলিউশন।'
   },
@@ -230,7 +230,7 @@ export const products: Product[] = [
     category: 'ইলেকট্রনিক্স',
     oldPrice: 2500,
     price: 2200,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://m.media-amazon.com/images/I/61Z2WZ9Z9ZL._AC_UF1000,1000_QL80_.jpg',
     stock: 20,
     description: 'টেবিল ফ্যান। ৩ স্পিড কন্ট্রোল।'
   },
@@ -242,7 +242,7 @@ export const products: Product[] = [
     category: 'মোবিল',
     oldPrice: 1200,
     price: 1050,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://m.media-amazon.com/images/I/61Z2WZ9Z9ZL._AC_UF1000,1000_QL80_.jpg',
     stock: 45,
     description: 'উন্নত মানের ইঞ্জিন অয়েল। গাড়ির ইঞ্জিনের দীর্ঘায়ু বৃদ্ধি করে।'
   },
@@ -252,7 +252,7 @@ export const products: Product[] = [
     category: 'মোবিল',
     oldPrice: 280,
     price: 250,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://m.media-amazon.com/images/I/61Z2WZ9Z9ZL._AC_UF1000,1000_QL80_.jpg',
     stock: 80,
     description: 'প্রিমিয়াম ইঞ্জিন অয়েল। মোটরসাইকেলের জন্য।'
   },
@@ -262,7 +262,7 @@ export const products: Product[] = [
     category: 'মোবিল',
     oldPrice: 180,
     price: 160,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://m.media-amazon.com/images/I/61Z2WZ9Z9ZL._AC_UF1000,1000_QL80_.jpg',
     stock: 100,
     description: 'গিয়ারবক্সের জন্য বিশেষ অয়েল।'
   },
@@ -272,7 +272,7 @@ export const products: Product[] = [
     category: 'মোবিল',
     oldPrice: 120,
     price: 100,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://m.media-amazon.com/images/I/61Z2WZ9Z9ZL._AC_UF1000,1000_QL80_.jpg',
     stock: 150,
     description: 'ব্রেক সিস্টেমের জন্য হাইড্রোলিক অয়েল।'
   },
@@ -282,7 +282,7 @@ export const products: Product[] = [
     category: 'মোবিল',
     oldPrice: 200,
     price: 180,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://m.media-amazon.com/images/I/61Z2WZ9Z9ZL._AC_UF1000,1000_QL80_.jpg',
     stock: 60,
     description: 'পাওয়ার স্টিয়ারিং এর জন্য বিশেষ অয়েল।'
   },
@@ -293,7 +293,7 @@ export const products: Product[] = [
     name: 'পেট্রোল ১ লিটার',
     category: 'পেট্রোল',
     price: 135,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/petrol-1-litre-500x500.jpg',
     stock: 200,
     description: 'খাঁটি পেট্রোল। মোটরসাইকেল এবং গেনারেটরের জন্য উপযুক্ত।'
   },
@@ -302,7 +302,7 @@ export const products: Product[] = [
     name: 'অকটেন ১ লিটার',
     category: 'পেট্রোল',
     price: 140,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/octane-petrol-1-litre-500x500.jpg',
     stock: 150,
     description: 'হাই অকটেন পেট্রোল। উন্নত পারফরম্যান্স।'
   },
@@ -311,7 +311,7 @@ export const products: Product[] = [
     name: 'ডিজেল ১ লিটার',
     category: 'পেট্রোল',
     price: 115,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/diesel-1-litre-500x500.jpg',
     stock: 300,
     description: 'খাঁটি ডিজেল। জেনারেটর এবং ট্রাক্টরের জন্য।'
   },
@@ -320,7 +320,7 @@ export const products: Product[] = [
     name: 'কেরোসিন ১ লিটার',
     category: 'পেট্রোল',
     price: 110,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/kerosene-1-litre-500x500.jpg',
     stock: 100,
     description: 'পরিষ্কার কেরোসিন। রান্নার কাজে ব্যবহার।'
   },
@@ -330,7 +330,7 @@ export const products: Product[] = [
     category: 'পেট্রোল',
     oldPrice: 180,
     price: 160,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/engine-cleaner-500x500.jpg',
     stock: 80,
     description: 'ইঞ্জিন পরিষ্কারের জন্য বিশেষ তরল।'
   },
@@ -342,7 +342,7 @@ export const products: Product[] = [
     category: 'স্যানেটারি',
     oldPrice: 8500,
     price: 7800,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/toilet-commode-set-500x500.jpg',
     stock: 12,
     description: 'সিরামিক কমোড। ফ্ল্যাশ ট্যাংক সহ।'
   },
@@ -352,7 +352,7 @@ export const products: Product[] = [
     category: 'স্যানেটারি',
     oldPrice: 3500,
     price: 3200,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/wash-basin-500x500.jpg',
     stock: 25,
     description: 'সিরামিক ওয়াশ বেসিন। ট্যাপ সহ।'
   },
@@ -362,7 +362,7 @@ export const products: Product[] = [
     category: 'স্যানেটারি',
     oldPrice: 2500,
     price: 2200,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/shower-set-500x500.jpg',
     stock: 30,
     description: 'কমপ্লিট শাওয়ার সেট। হোস সহ।'
   },
@@ -372,7 +372,7 @@ export const products: Product[] = [
     category: 'স্যানেটারি',
     oldPrice: 1800,
     price: 1650,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/mixer-tap-500x500.jpg',
     stock: 40,
     description: 'গরম ঠান্ডা পানির মিক্সার ট্যাপ।'
   },
@@ -382,7 +382,7 @@ export const products: Product[] = [
     category: 'স্যানেটারি',
     oldPrice: 450,
     price: 400,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/toilet-paper-holder-500x500.jpg',
     stock: 60,
     description: 'স্টেইনলেস স্টিল টয়লেট পেপার হোল্ডার।'
   },
@@ -394,7 +394,7 @@ export const products: Product[] = [
     category: 'পাইপ',
     oldPrice: 850,
     price: 780,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/pvc-pipe-4-inch-500x500.jpg',
     stock: 75,
     description: 'মজবুত পিভিসি পাইপ। পানি সরবরাহ এবং নিষ্কাশনের জন্য আদর্শ।'
   },
@@ -404,7 +404,7 @@ export const products: Product[] = [
     category: 'পাইপ',
     oldPrice: 450,
     price: 420,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/pvc-pipe-2-inch-500x500.jpg',
     stock: 100,
     description: '২ ইঞ্চি পিভিসি পাইপ। ছোট পানির লাইনের জন্য।'
   },
@@ -414,7 +414,7 @@ export const products: Product[] = [
     category: 'পাইপ',
     oldPrice: 350,
     price: 320,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/galvanized-pipe-1-inch-500x500.jpg',
     stock: 80,
     description: 'মেটাল পাইপ। দীর্ঘস্থায়ী এবং শক্তিশালী।'
   },
@@ -424,7 +424,7 @@ export const products: Product[] = [
     category: 'পাইপ',
     oldPrice: 280,
     price: 250,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/flexible-hose-10-feet-500x500.jpg',
     stock: 120,
     description: 'নমনীয় পানির হোস। বাগানের জন্য আদর্শ।'
   },
@@ -434,7 +434,7 @@ export const products: Product[] = [
     category: 'পাইপ',
     oldPrice: 650,
     price: 580,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/pipe-fittings-set-500x500.jpg',
     stock: 90,
     description: 'পাইপ জোড়ার জন্য বিভিন্ন ফিটিংস।'
   },
@@ -446,7 +446,7 @@ export const products: Product[] = [
     category: 'বিয়ারিং',
     oldPrice: 180,
     price: 160,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/skate-bearing-6205-500x500.jpg',
     stock: 50,
     description: 'উন্নত মানের স্কেট বিয়ারিং। মেশিনারির জন্য।'
   },
@@ -456,7 +456,7 @@ export const products: Product[] = [
     category: 'বিয়ারিং',
     oldPrice: 220,
     price: 200,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/ball-bearing-6206-500x500.jpg',
     stock: 40,
     description: 'ভারী মেশিনের জন্য বল বিয়ারিং।'
   },
@@ -466,7 +466,7 @@ export const products: Product[] = [
     category: 'বিয়ারিং',
     oldPrice: 350,
     price: 320,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/thrust-bearing-500x500.jpg',
     stock: 30,
     description: 'থ্রাস্ট লোড সহ্য করার জন্য বিশেষ বিয়ারিং।'
   },
@@ -476,7 +476,7 @@ export const products: Product[] = [
     category: 'বিয়ারিং',
     oldPrice: 280,
     price: 250,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/needle-bearing-500x500.jpg',
     stock: 35,
     description: 'কম স্থানের জন্য নিডল বিয়ারিং।'
   },
@@ -486,7 +486,7 @@ export const products: Product[] = [
     category: 'বিয়ারিং',
     oldPrice: 450,
     price: 420,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/pillow-block-bearing-500x500.jpg',
     stock: 25,
     description: 'শ্যাফট সাপোর্টের জন্য পিলো ব্লক।'
   },
@@ -498,7 +498,7 @@ export const products: Product[] = [
     category: 'রং',
     oldPrice: 650,
     price: 580,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://www.asianpaints.com/content/dam/asianpaints/products/wall-finishes/exterior-wall-finishes/royale-play/textures/royale-play-textures-product-shot.jpg',
     stock: 60,
     description: 'প্রিমিয়াম ওয়াল পেইন্ট। দীর্ঘস্থায়ী রং।'
   },
@@ -508,7 +508,7 @@ export const products: Product[] = [
     category: 'রং',
     oldPrice: 380,
     price: 350,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://www.bergerpaints.com/wp-content/uploads/2020/01/Berger-Prime-White-1-Ltr.png',
     stock: 80,
     description: 'দেয়ালের জন্য আন্ডার কোট প্রাইমার।'
   },
@@ -518,7 +518,7 @@ export const products: Product[] = [
     category: 'রং',
     oldPrice: 280,
     price: 250,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://www.bergerpaints.com/wp-content/uploads/2020/01/Berger-Enamel-500ml.png',
     stock: 100,
     description: 'মেটালের জন্য ইনামেল পেইন্ট।'
   },
@@ -528,7 +528,7 @@ export const products: Product[] = [
     category: 'রং',
     oldPrice: 350,
     price: 320,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://m.media-amazon.com/images/I/71Z2WZ9Z9ZL._AC_UF1000,1000_QL80_.jpg',
     stock: 50,
     description: 'বিভিন্ন সাইজের পেইন্ট ব্রাশ।'
   },
@@ -538,7 +538,7 @@ export const products: Product[] = [
     category: 'রং',
     oldPrice: 180,
     price: 160,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://m.media-amazon.com/images/I/61Z2WZ9Z9ZL._AC_UF1000,1000_QL80_.jpg',
     stock: 70,
     description: 'দ্রুত রং করার জন্য রোলার ব্রাশ।'
   },
@@ -550,7 +550,7 @@ export const products: Product[] = [
     category: 'বিদ্যুৎ',
     oldPrice: 450,
     price: 420,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/switch-board-6-gang-500x500.jpg',
     stock: 40,
     description: '৬ গ্যাং সুইচ বোর্ড। প্রিমিয়াম কোয়ালিটি।'
   },
@@ -560,7 +560,7 @@ export const products: Product[] = [
     category: 'বিদ্যুৎ',
     oldPrice: 180,
     price: 160,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/socket-3-pin-500x500.jpg',
     stock: 80,
     description: '৩ পিন পাওয়ার সকেট। নিরাপদ।'
   },
@@ -570,7 +570,7 @@ export const products: Product[] = [
     category: 'বিদ্যুৎ',
     oldPrice: 350,
     price: 320,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/mcb-32-amp-500x500.jpg',
     stock: 60,
     description: 'মিনিয়েচার সার্কিট ব্রেকার।'
   },
@@ -580,7 +580,7 @@ export const products: Product[] = [
     category: 'বিদ্যুৎ',
     oldPrice: 280,
     price: 250,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/extension-board-500x500.jpg',
     stock: 45,
     description: '৪ সকেট এক্সটেনশন বোর্ড।'
   },
@@ -590,7 +590,7 @@ export const products: Product[] = [
     category: 'বিদ্যুৎ',
     oldPrice: 2500,
     price: 2200,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/voltage-stabilizer-500x500.jpg',
     stock: 20,
     description: 'বৈদ্যুতিক সরঞ্জাম সুরক্ষার জন্য।'
   },
@@ -602,7 +602,7 @@ export const products: Product[] = [
     category: 'ফ্যান',
     oldPrice: 3500,
     price: 3200,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://www.waltonbd.com/image/catalog/ceiling-fan/48-inch/WF-4801/WF-4801.png',
     stock: 12,
     description: 'শক্তিশালী সিলিং ফ্যান। কম শব্দ এবং বেশি বাতাস।'
   },
@@ -612,7 +612,7 @@ export const products: Product[] = [
     category: 'ফ্যান',
     oldPrice: 2200,
     price: 2000,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://www.waltonbd.com/image/catalog/wall-fan/16-inch/WF-1601/WF-1601.png',
     stock: 18,
     description: 'দেয়ালে লাগানোর ফ্যান। রিমোট কন্ট্রোল।'
   },
@@ -622,7 +622,7 @@ export const products: Product[] = [
     category: 'ফ্যান',
     oldPrice: 1500,
     price: 1350,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://www.waltonbd.com/image/catalog/exhaust-fan/10-inch/EF-1001/EF-1001.png',
     stock: 25,
     description: 'বাথরুম এবং রান্নাঘরের জন্য।'
   },
@@ -632,7 +632,7 @@ export const products: Product[] = [
     category: 'ফ্যান',
     oldPrice: 3800,
     price: 3500,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://www.waltonbd.com/image/catalog/stand-fan/18-inch/SF-1801/SF-1801.png',
     stock: 10,
     description: 'পোর্টেবল স্ট্যান্ড ফ্যান। টাইমার সহ।'
   },
@@ -642,7 +642,7 @@ export const products: Product[] = [
     category: 'ফ্যান',
     oldPrice: 4200,
     price: 3800,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://www.waltonbd.com/image/catalog/bracketless-fan/52-inch/BF-5201/BF-5201.png',
     stock: 8,
     description: 'আধুনিক ডিজাইনের ব্র্যাকেটলেস ফ্যান।'
   },
@@ -654,7 +654,7 @@ export const products: Product[] = [
     category: 'লাইট',
     oldPrice: 280,
     price: 250,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://www.philips.com.bd/c-dam/b2c/category-pages/lighting/led-bulbs/led-bulbs-15w.jpg',
     stock: 100,
     description: 'শক্তি সাশ্রয়ী এলইডি বাল্ব।'
   },
@@ -664,7 +664,7 @@ export const products: Product[] = [
     category: 'লাইট',
     oldPrice: 450,
     price: 420,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://www.philips.com.bd/c-dam/b2c/category-pages/lighting/tube-lights/tube-lights-40w.jpg',
     stock: 60,
     description: 'ব্রাইট হোয়াইট টিউব লাইট।'
   },
@@ -674,7 +674,7 @@ export const products: Product[] = [
     category: 'লাইট',
     oldPrice: 3500,
     price: 3200,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/chandelier-5-light-500x500.jpg',
     stock: 15,
     description: 'আকর্ষণীয় ক্রিস্টাল চ্যান্ডেলিয়ার।'
   },
@@ -684,7 +684,7 @@ export const products: Product[] = [
     category: 'লাইট',
     oldPrice: 1200,
     price: 1080,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/emergency-light-500x500.jpg',
     stock: 30,
     description: 'রিচার্জেবল ইমার্জেন্সি লাইট।'
   },
@@ -694,7 +694,7 @@ export const products: Product[] = [
     category: 'লাইট',
     oldPrice: 2800,
     price: 2500,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://5.imimg.com/data5/SELLER/Default/2021/12/QO/YD/JA/3033603/street-light-50w-500x500.jpg',
     stock: 20,
     description: 'রাস্তার জন্য সোলার স্ট্রিট লাইট।'
   },
