@@ -32,7 +32,7 @@ const Contact = () => {
           <div className="bg-card rounded-lg p-6 shadow-sm border border-border space-y-4">
             <div className="w-24 h-24 mx-auto rounded-full overflow-hidden">
               <img 
-                src="https://i.postimg.cc/BbSznDTY/Father.jpg" 
+                src="https://i.postimg.cc/RVMmTf4X/Md-Rokibul-Hasan-Shekh.jpg" 
                 alt="মোঃ রকিবুল হাসান রকেট"
                 className="w-full h-full object-cover"
               />
