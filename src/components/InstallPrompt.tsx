@@ -70,15 +70,40 @@ const InstallPrompt = () => {
 
   const handleOpenInChrome = () => {
     const currentUrl = window.location.href;
-    const chromeIntent = `googlechrome://navigate?url=${encodeURIComponent(currentUrl)}`;
-    
-    // Try to open in Chrome app
-    window.location.href = chromeIntent;
-    
-    // Fallback: Open in default browser after a delay
-    setTimeout(() => {
-      window.open(currentUrl, '_blank');
-    }, 1000);
+    const ua = navigator.userAgent || (navigator as any).vendor || '';
+    const isAndroid = /android/i.test(ua);
+    const isIOS = /iphone|ipad|ipod/i.test(ua);
+
+    try {
+      if (isAndroid) {
+        const sanitized = currentUrl.replace(/^https?:\/\//, '');
+        const intentUrl = `intent://${sanitized}#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url=${encodeURIComponent(currentUrl)};end`;
+        // Try to trigger Android intent chooser to open in Chrome
+        window.location.href = intentUrl;
+        // Fallback: open in a new tab/window
+        setTimeout(() => {
+          window.open(currentUrl, '_blank', 'noopener,noreferrer');
+        }, 1200);
+        return;
+      }
+
+      if (isIOS) {
+        // iOS Chrome URL scheme
+        const chromeUrl = currentUrl.startsWith('https://')
+          ? currentUrl.replace('https://', 'googlechrome://')
+          : currentUrl.replace('http://', 'googlechromes://');
+        window.location.href = chromeUrl;
+        setTimeout(() => {
+          window.open(currentUrl, '_blank', 'noopener,noreferrer');
+        }, 1200);
+        return;
+      }
+
+      // Desktop or other platforms: open in a new window
+      window.open(currentUrl, '_blank', 'noopener,noreferrer');
+    } catch {
+      window.open(currentUrl, '_blank', 'noopener,noreferrer');
+    }
   };
 
   if (showExternalRedirect) {
