@@ -86,7 +86,7 @@ export const products: Product[] = [
     category: 'সেভেন রিংস সিমেন্ট',
     oldPrice: 650,
     price: 620,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://i.postimg.cc/htt7Nfb0/0000-image001.jpg',
     stock: 150,
     description: 'প্রিমিয়াম মানের সিমেন্ট। নির্মাণ কাজের জন্য সর্বোত্তম গুণমান।'
   },
@@ -96,7 +96,7 @@ export const products: Product[] = [
     category: 'সেভেন রিংস সিমেন্ট',
     oldPrice: 350,
     price: 330,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://i.postimg.cc/htt7Nfb0/0000-image001.jpg',
     stock: 200,
     description: 'ছোট নির্মাণ কাজের জন্য ২৫ কেজি সিমেন্ট।'
   },
@@ -106,7 +106,7 @@ export const products: Product[] = [
     category: 'সেভেন রিংস সিমেন্ট',
     oldPrice: 750,
     price: 720,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://i.postimg.cc/htt7Nfb0/0000-image001.jpg',
     stock: 80,
     description: 'সাদা সিমেন্ট। ফিনিশিং এবং সৌন্দর্য বৃদ্ধির জন্য।'
   },
@@ -116,7 +116,7 @@ export const products: Product[] = [
     category: 'সেভেন রিংস সিমেন্ট',
     oldPrice: 700,
     price: 680,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://i.postimg.cc/htt7Nfb0/0000-image001.jpg',
     stock: 120,
     description: 'দ্রুত শুকানোর সিমেন্ট। জরুরি মেরামতের জন্য আদর্শ।'
   },
@@ -126,7 +126,7 @@ export const products: Product[] = [
     category: 'সেভেন রিংস সিমেন্ট',
     oldPrice: 800,
     price: 750,
-    imageUrl: '/api/placeholder/300/300',
+    imageUrl: 'https://i.postimg.cc/htt7Nfb0/0000-image001.jpg',
     stock: 60,
     description: 'জলরোধী সিমেন্ট। বেসমেন্ট এবং বাথরুমের জন্য।'
   },
